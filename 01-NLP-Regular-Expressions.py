@@ -18,7 +18,7 @@
 #---Regular Expressions: A regular expression is a sequence
 # of chatacters that defines a specific search pattern and
 # using which you can match or substitute patterns inside a
-# text with the lead amount of code.
+# text with the least amount of code.
 #-----------------------------------------
 # ***Important Takeaways:***
 # -Regular expressions allow you to write less code by iterating
